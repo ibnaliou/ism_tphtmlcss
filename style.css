@@ -1,0 +1,74 @@
+.containall{
+   
+    width: 800px;
+    margin: auto;
+}
+.ligne1{
+    display: flex;
+    height: 150px;
+   
+}
+
+#logo{
+    width: 300px;
+    background-color:gray;
+
+}
+
+#navig{
+    width:600px;
+    margin-left: 30px;
+    background-color: gray;
+}
+
+.ligne2{
+    background-color: gray;
+    height: 55px;
+    margin-top: 20px;
+}
+
+.ligne3{
+    display: flex;
+    height: 150px;
+    margin-top: 20px;
+}
+
+.actus{
+    background-color: gray;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.ligne4{
+    margin-top: 20px;
+    height: 150px;
+    display: flex;
+}
+#edito{
+    background-color: gray;
+    width: 500px;
+}
+#inci{
+    background-color: gray;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.ligne5{
+    
+    height: 150px;
+    margin-top: 20px;
+    display: flex;
+    
+}
+#coor{
+    background-color: grey;
+    width: 50%;
+}
+
+#com{
+    background-color: grey;
+    width: 50%;
+    margin-left: 20px;
+
+}
